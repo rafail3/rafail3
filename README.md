@@ -9,7 +9,7 @@
 
 ## 👋 About Me
 
-I'm a Romanian student who fell in love with the web — not through a classroom, but through curiosity, late nights, and a lot of trial and error.
+I'm a passionate creator who fell in love with the web — not through a classroom, but through curiosity, late nights, and a lot of trial and error.
 
 I build websites that look good, load fast, and actually serve a purpose. My workflow blends modern AI tools (v0.dev, Claude) with real deployment infrastructure — so what I ship isn't just a prototype, it's live and working.
 
