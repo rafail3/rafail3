@@ -13,7 +13,7 @@ I'm a passionate creator who fell in love with the web — not through a classro
 
 I build websites that look good, load fast, and actually serve a purpose. My workflow blends modern AI tools (v0.dev, Claude) with real deployment infrastructure — so what I ship isn't just a prototype, it's live and working.
 
-I'm on a clear path: start with landing pages → grow into e-commerce → keep learning, keep building.
+I'm on a clear path: keep learning, keep building.
 
 ---
 
