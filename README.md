@@ -67,7 +67,7 @@ If you're a business looking for a website, or a developer who wants to collabor
 
 [![Email](https://img.shields.io/badge/Email-contact%20me-blue?style=flat-square&logo=gmail)](mailto:negusrafail@proton.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/negus-rafail-25027928a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-hartiromania.ro-black?style=flat-square&logo=vercel)](https://hartiromania.ro)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hartiromania.ro-black?style=flat-square&logo=vercel)](https://github.com/rafail3?tab=repositories)
 
 ---
 
