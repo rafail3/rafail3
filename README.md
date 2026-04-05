@@ -46,8 +46,8 @@ Analytics      →  Google Analytics · Meta Pixel
 
 ## 📈 Where I'm Headed
 
-- 🧱 Building presentation websites & landing pages for Romanian businesses
-- 🛒 Learning WooCommerce & e-commerce integrations
+- 🧱 Building presentation websites & landing pages for all types of businesses
+- 🛒 Learning and staying updated with the latest AI integrations
 - 🤖 Deepening my understanding of AI-assisted development (not just using it — understanding it)
 - 💼 Growing a freelance practice from the ground up
 
