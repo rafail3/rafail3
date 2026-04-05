@@ -61,15 +61,15 @@ I'm not a senior developer. But I ship real things, I learn fast, and I take own
 
 If you're a business looking for a website, or a developer who wants to collaborate — I'm open.
 
-[![Email](https://img.shields.io/badge/Email-contact%20me-blue?style=flat-square&logo=gmail)](mailto:YOUR_EMAIL_HERE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-contact%20me-blue?style=flat-square&logo=gmail)](mailto:negusrafail@proton.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/negus-rafail-25027928a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-hartiromania.ro-black?style=flat-square&logo=vercel)](https://hartiromania.ro)
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rafail3&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafail3&layout=compact&theme=github_dark&hide_border=true" height="150"/>
 </div>
 
 <br/>
