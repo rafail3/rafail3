@@ -20,11 +20,15 @@ I'm on a clear path: keep learning, keep building.
 ## 🛠️ What I Work With
 
 ```
-Frontend       →  v0.dev · HTML/CSS · React (learning)
-Deployment     →  Vercel · custom domains · DNS config
-CMS            →  WordPress (basic–medium)
-Email          →  Zoho Mail · custom domain email setup
-AI Tools       →  v0.dev · Claude · prompt engineering
+Frontend       →  HTML · CSS · JavaScript · React · Tailwind CSS
+UI & Design    →  v0.dev · Figma · Responsive Design
+CMS            →  WordPress · Elementor · WooCommerce
+Deployment     →  Vercel · Netlify · cPanel · DNS & Domains
+Email          →  Zoho Mail · Google Workspace · SPF/DKIM/DMARC
+Databases      →  MySQL · Firebase
+SEO            →  On-Page SEO · Google Search Console · RankMath
+AI Tools       →  v0.dev · Claude · GitHub Copilot
+Analytics      →  Google Analytics · Meta Pixel
 ```
 
 ---
