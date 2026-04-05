@@ -1,16 +1,79 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**rafail3/rafail3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated header using SVG text trick via readme-typing-svg -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+a+Romanian+web+builder+%F0%9F%87%B7%F0%9F%87%B4;I+turn+ideas+into+live+websites+%F0%9F%9A%80;Powered+by+curiosity+%2B+AI+tools+%E2%9C%A8;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👋 About Me
+
+I'm a Romanian student who fell in love with the web — not through a classroom, but through curiosity, late nights, and a lot of trial and error.
+
+I build websites that look good, load fast, and actually serve a purpose. My workflow blends modern AI tools (v0.dev, Claude) with real deployment infrastructure — so what I ship isn't just a prototype, it's live and working.
+
+I'm on a clear path: start with landing pages → grow into e-commerce → keep learning, keep building.
+
+---
+
+## 🛠️ What I Work With
+
+```
+Frontend       →  v0.dev · HTML/CSS · React (learning)
+Deployment     →  Vercel · custom domains · DNS config
+CMS            →  WordPress (basic–medium)
+Email          →  Zoho Mail · custom domain email setup
+AI Tools       →  v0.dev · Claude · prompt engineering
+```
+
+---
+
+## 🌍 Live Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [hartiromania.ro](https://hartiromania.ro) | Romanian geography resource site | v0.dev · Vercel |
+| [itrosenau.site](https://itrosenau.site) | Presentation website | v0.dev · Vercel |
+
+> Both projects are live, on custom domains, built with AI assistance — and I understand every part of what makes them work.
+
+---
+
+## 📈 Where I'm Headed
+
+- 🧱 Building presentation websites & landing pages for Romanian businesses
+- 🛒 Learning WooCommerce & e-commerce integrations
+- 🤖 Deepening my understanding of AI-assisted development (not just using it — understanding it)
+- 💼 Growing a freelance practice from the ground up
+
+---
+
+## 🧠 My Philosophy
+
+> *"I don't just copy what the AI generates. I try to understand why it made each decision — so I can direct it better next time."*
+
+I'm not a senior developer. But I ship real things, I learn fast, and I take ownership of every project I touch.
+
+---
+
+## 📬 Let's Talk
+
+If you're a business looking for a website, or a developer who wants to collaborate — I'm open.
+
+[![Email](https://img.shields.io/badge/Email-contact%20me-blue?style=flat-square&logo=gmail)](mailto:YOUR_EMAIL_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hartiromania.ro-black?style=flat-square&logo=vercel)](https://hartiromania.ro)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>Built with curiosity · Deployed with Vercel · Powered by Romania 🇷🇴</sub>
+</div>
