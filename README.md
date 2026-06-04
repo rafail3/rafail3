@@ -72,8 +72,8 @@ If you're a business looking for a website, or a developer who wants to collabor
 ---
 
 <div align="center">
-  <img src="https://static.thenounproject.com/png/1670308-200.png" height="150"/>
-  <img src="https://www.svgrepo.com/show/340452/infrastructure-classic.svg" height="150"/>
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/nextjs-dqhvgu9iwvacgwnwl8bs25.png/nextjs-ghnqttyc6ffbnqnn8xlrpj.png?_a=DATAiZAAZAA0" height="150"/>
+  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" height="150"/>
 </div>
 
 <br/>
