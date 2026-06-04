@@ -72,12 +72,12 @@ If you're a business looking for a website, or a developer who wants to collabor
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafail3&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafail3&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://static.thenounproject.com/png/1670308-200.png" height="150"/>
+  <img src="https://www.svgrepo.com/show/340452/infrastructure-classic.svg" height="150"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <sub>Built with curiosity · Deployed with Vercel · Powered by Romania 🇷🇴</sub>
+  <sub>Built with Caution · Deployed with will · Powered by Curiosity</sub>
 </div>
