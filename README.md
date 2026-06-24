@@ -37,8 +37,8 @@ Analytics      →  Google Analytics · Meta Pixel
 
 | Project | What it is | Stack |
 |---|---|---|
-| [hartiromania.ro](https://hartiromania.ro) | Romanian geography resource site | v0.dev · Vercel |
-| [itrosenau.site](https://itrosenau.site) | Presentation website | v0.dev · Vercel |
+| [ngig.cloud](https://ngig.cloud) | Presentation website | next.js · supabase · Vercel |
+| [hartiromania.ro](https://hartiromania.ro) | Romanian geography resource site | next.js · Vercel |
 
 > Both projects are live, on custom domains, built with AI assistance — and I understand every part of what makes them work.
 
